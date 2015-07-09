@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-jul-2014, 17:01:23
+    Author     : jbgae
+*/
+
+@media (min-width: 1200px) {
+    .jqte{
+        min-height: 320px;
+    }
+}
+
+.datos{
+    color:#888;
+    font-size:0.8em;
+    margin-bottom: 1em;
+}
+
+#noticia{
+    margin-bottom: 2%;
+}
+
+.noticia{
+    margin-bottom:1em;
+}

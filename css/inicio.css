@@ -1,0 +1,190 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-jun-2014, 16:38:40
+    Author     : jbgae
+*/
+
+/* Line 307 */
+hr{
+    margin-top: 50px;    
+    border-top: 1px solid #ccc;     
+}
+
+p
+{
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+
+/* Line 5000 */
+.center-feature-sub-content
+{
+  text-align: justify;
+  font-size: 18px;
+  color: #888888;
+  line-height: 30px;
+  width:90%;
+  margin-top:4%;  
+  margin-bottom:3%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+
+/*CAROUSEL*/
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+width: 90%; /* use this, or not */
+margin: auto;
+}
+.right.carousel-control, .left.carousel-control {
+    display: none;
+}
+
+.carousel-caption{
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.8);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+
+.carousel-indicators {
+  position: absolute;
+  bottom: -40px;
+  left: 50%;
+  z-index: 15;
+  width: 60%;
+  margin-left: -30%;
+  padding-left: 0;
+  list-style: none;
+  text-align: center;
+}
+.carousel-indicators li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  text-indent: -999px;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #aaa \9;
+  background-color: #aaa;
+}
+.carousel-indicators .active {
+  margin: 0;
+  width: 12px;
+  height: 12px;
+  background-color: #428bca;
+}
+
+
+.noticias{
+    width:90%;
+    margin:auto;
+    background-color: #f2f2f2;
+    padding-bottom: 15px;
+    margin-bottom: 3%;
+}
+
+.curso{
+    padding-left: 6%;
+    padding-right: 2%;
+}
+
+.columnas{
+    width:92.5%;
+    margin:auto;
+    padding-bottom: 15px;
+    margin-bottom: 3%;
+}
+
+.eventos, .enlaces, .empresas{
+    background-color: #f2f2f2;
+    padding-bottom: 5px;
+    margin-bottom: 3%;
+}
+
+.section-content > a > img{
+    width:90%;
+    padding-left: 10%;
+    margin-bottom:3px;
+}
+
+.date-label, .btn-tema{
+    margin-left: 15px;
+}
+
+.btn-tema{
+    margin-top:5px;
+}
+
+.details{
+    width:80%;
+    float:right;
+}
+
+div.row.cols-wrapper.columnas>div.col-md-3>section.enlaces>div.section-content>p>a{
+    padding-left:25px;
+}
+
+.line{
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: #6091ba;
+  display: inline-block;
+  padding-right: 15px;
+  padding-bottom: 0px;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+/* Line 34 */
+h1, h2, h3, h4, h5, h6
+{
+  font-family: 'open sans',arial,sans-serif;
+  font-weight: 300;
+}
+
+/* Line 166 */
+.text-highlight
+{
+  color: #27435a;
+}
+
+/* Line 1428 */
+h1.section-heading
+{
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 2;
+  margin-top: 0px;
+  color: #2f506c;
+}
+
+h2.title{
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 2;
+  margin-top: 0px;
+  color: #2f506c;
+}
+
